@@ -1,0 +1,38 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP19
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP15
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP24
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP20
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP16
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP25
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP21
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP17
+Change Component Designator: OldDesignator=JP13 NewDesignator=JP26
+Change Component Designator: OldDesignator=JP14 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP15 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP16 NewDesignator=JP11
+Change Component Designator: OldDesignator=JP17 NewDesignator=JP22
+Change Component Designator: OldDesignator=JP19 NewDesignator=JP27
+Change Component Designator: OldDesignator=JP20 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP21 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP22 NewDesignator=JP12
+Change Component Designator: OldDesignator=JP24 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP25 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP26 NewDesignator=JP13
+Change Component Designator: OldDesignator=JP27 NewDesignator=JP14
+Change Net Name : Old Net Name=NetJP1_1 New Net Name=NetJP8_1
+Change Net Name : Old Net Name=NetJP1_2 New Net Name=NetJP8_2
+Change Net Name : Old Net Name=NetJP2_1 New Net Name=NetJP19_1
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP19_2
+Change Net Name : Old Net Name=NetJP6_1 New Net Name=NetJP9_1
+Change Net Name : Old Net Name=NetJP6_2 New Net Name=NetJP9_2
+Change Net Name : Old Net Name=NetJP7_1 New Net Name=NetJP20_1
+Change Net Name : Old Net Name=NetJP7_2 New Net Name=NetJP20_2
+Change Net Name : Old Net Name=NetJP11_1 New Net Name=NetJP21_1
+Change Net Name : Old Net Name=NetJP11_2 New Net Name=NetJP21_2
+Change Net Name : Old Net Name=NetJP16_1 New Net Name=NetJP11_1
+Change Net Name : Old Net Name=NetJP16_2 New Net Name=NetJP11_2
+Change Net Name : Old Net Name=NetJP17_1 New Net Name=NetJP22_1
+Change Net Name : Old Net Name=NetJP17_2 New Net Name=NetJP22_2

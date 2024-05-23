@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP24
+Change Component Designator: OldDesignator=JP13 NewDesignator=JP25
+Change Component Designator: OldDesignator=JP14 NewDesignator=JP26
+Change Component Designator: OldDesignator=JP15 NewDesignator=JP16
+Change Component Designator: OldDesignator=JP16 NewDesignator=JP17
+Change Component Designator: OldDesignator=JP17 NewDesignator=JP18
+Change Component Designator: OldDesignator=JP18 NewDesignator=JP19
+Change Component Designator: OldDesignator=JP19 NewDesignator=JP12
+Change Component Designator: OldDesignator=JP20 NewDesignator=JP13
+Change Component Designator: OldDesignator=JP21 NewDesignator=JP14
+Change Component Designator: OldDesignator=JP22 NewDesignator=JP15
+Change Component Designator: OldDesignator=JP23 NewDesignator=JP27
+Change Component Designator: OldDesignator=JP24 NewDesignator=JP20
+Change Component Designator: OldDesignator=JP25 NewDesignator=JP21
+Change Component Designator: OldDesignator=JP26 NewDesignator=JP22
+Change Component Designator: OldDesignator=JP27 NewDesignator=JP23
+Change Net Name : Old Net Name=NetJP19_1 New Net Name=NetJP12_1
+Change Net Name : Old Net Name=NetJP19_2 New Net Name=NetJP12_2
+Change Net Name : Old Net Name=NetJP20_1 New Net Name=NetJP13_1
+Change Net Name : Old Net Name=NetJP20_2 New Net Name=NetJP13_2
+Change Net Name : Old Net Name=NetJP21_1 New Net Name=NetJP14_1
+Change Net Name : Old Net Name=NetJP21_2 New Net Name=NetJP14_2
+Change Net Name : Old Net Name=NetJP22_1 New Net Name=NetJP15_1
+Change Net Name : Old Net Name=NetJP22_2 New Net Name=NetJP15_2
+Added Member To Class: ClassName=VDT Member=Component JP2 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP3 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP7 DB37_M
+Added Member To Class: ClassName=VDT Member=Component JP9 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP16 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP17 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP20 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP21 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP22 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP24 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP25 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP26 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP27 BNC_KE

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=JP5 Old Footprint=DB37_RA New Footprint=DB37
+Change Component Comment : Designator=JP5 Old Comment=DB37_RA_M New Comment=DB37_M
+Change component parameters: Designator = "JP5" ("JP5"); Footprint = "DB37_RA"; UniqueID = "\AKEHLIGB" ("\AKEHLIGB")
+Change component parameters (AddParameter): Name = "Link"; Value = "https://www.digikey.cn/en/products/detail/te-connectivity-amp-connectors/2301836-1/7776540"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacture Part Number"; Value = "2301836-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "$5.80"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Viet Nam Link"; Value = "https://linhkien.cxt.vn/6261-db37-cong-duc-37p-chan-thang-2-hang-han-pcb.html"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=VDT Member=Component JP19 TERMINAL_5MM_2P
