@@ -1,0 +1,119 @@
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Component Designator: OldDesignator=JP? NewDesignator=JP4
+Change Component Designator: OldDesignator=JP? NewDesignator=JP5
+Change Component Designator: OldDesignator=JP? NewDesignator=JP6
+Change Component Designator: OldDesignator=JP? NewDesignator=JP7
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP11
+Change Component Designator: OldDesignator=JP? NewDesignator=JP12
+Change Component Designator: OldDesignator=JP? NewDesignator=JP13
+Change Component Designator: OldDesignator=JP? NewDesignator=JP14
+Change Component Designator: OldDesignator=JP? NewDesignator=JP15
+Change Component Designator: OldDesignator=JP? NewDesignator=JP16
+Change Component Designator: OldDesignator=JP? NewDesignator=JP17
+Change Component Designator: OldDesignator=JP? NewDesignator=JP18
+Change Component Designator: OldDesignator=JP? NewDesignator=JP19
+Change Component Designator: OldDesignator=JP? NewDesignator=JP20
+Change Component Designator: OldDesignator=JP? NewDesignator=JP21
+Change Component Designator: OldDesignator=JP? NewDesignator=JP22
+Change Component Designator: OldDesignator=JP? NewDesignator=JP23
+Change Component Designator: OldDesignator=JP? NewDesignator=JP24
+Change Component Designator: OldDesignator=JP? NewDesignator=JP25
+Change Component Designator: OldDesignator=JP? NewDesignator=JP26
+Change Component Designator: OldDesignator=JP? NewDesignator=JP27
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP16_1
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP10_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=JP3-1
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-4
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-5
+Added Pin To Net: NetName=NetJP1_2 Pin=JP3-2
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=JP4-1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-4
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_2 Pin=JP4-2
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetJP6_1 Pin=JP6-1
+Added Pin To Net: NetName=NetJP6_1 Pin=JP8-1
+Added Net: Name=NetJP6_1
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-2
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-3
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-4
+Added Pin To Net: NetName=NetJP6_2 Pin=JP6-5
+Added Pin To Net: NetName=NetJP6_2 Pin=JP8-2
+Added Net: Name=NetJP6_2
+Added Pin To Net: NetName=NetJP7_1 Pin=JP7-1
+Added Pin To Net: NetName=NetJP7_1 Pin=JP9-1
+Added Net: Name=NetJP7_1
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-2
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-3
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-4
+Added Pin To Net: NetName=NetJP7_2 Pin=JP7-5
+Added Pin To Net: NetName=NetJP7_2 Pin=JP9-2
+Added Net: Name=NetJP7_2
+Added Pin To Net: NetName=NetJP10_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP10_1 Pin=JP12-1
+Added Net: Name=NetJP10_1
+Added Pin To Net: NetName=NetJP11_1 Pin=JP11-1
+Added Pin To Net: NetName=NetJP11_1 Pin=JP13-1
+Added Net: Name=NetJP11_1
+Added Pin To Net: NetName=NetJP11_2 Pin=JP11-2
+Added Pin To Net: NetName=NetJP11_2 Pin=JP11-3
+Added Pin To Net: NetName=NetJP11_2 Pin=JP11-4
+Added Pin To Net: NetName=NetJP11_2 Pin=JP11-5
+Added Pin To Net: NetName=NetJP11_2 Pin=JP13-2
+Added Net: Name=NetJP11_2
+Added Pin To Net: NetName=NetJP16_2 Pin=JP16-2
+Added Pin To Net: NetName=NetJP16_2 Pin=JP16-3
+Added Pin To Net: NetName=NetJP16_2 Pin=JP16-4
+Added Pin To Net: NetName=NetJP16_2 Pin=JP16-5
+Added Pin To Net: NetName=NetJP16_2 Pin=JP18-2
+Added Net: Name=NetJP16_2
+Added Pin To Net: NetName=NetJP17_1 Pin=JP17-1
+Added Pin To Net: NetName=NetJP17_1 Pin=JP19-1
+Added Net: Name=NetJP17_1
+Added Pin To Net: NetName=NetJP17_2 Pin=JP17-2
+Added Pin To Net: NetName=NetJP17_2 Pin=JP17-3
+Added Pin To Net: NetName=NetJP17_2 Pin=JP17-4
+Added Pin To Net: NetName=NetJP17_2 Pin=JP17-5
+Added Pin To Net: NetName=NetJP17_2 Pin=JP19-2
+Added Net: Name=NetJP17_2
+Added Member To Class: ClassName=VDT Member=Component JP1 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP2 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP3 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP4 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP5 DB37_RA_M
+Added Member To Class: ClassName=VDT Member=Component JP6 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP7 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP8 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP9 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP10 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP11 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP12 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP13 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP14 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP15 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP16 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP17 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP18 TERMINAL_5MM_2P
+Added Member To Class: ClassName=VDT Member=Component JP20 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP21 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP22 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP23 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP24 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP25 SMA_KWE_FM
+Added Member To Class: ClassName=VDT Member=Component JP26 BNC_KE
+Added Member To Class: ClassName=VDT Member=Component JP27 BNC_KE
