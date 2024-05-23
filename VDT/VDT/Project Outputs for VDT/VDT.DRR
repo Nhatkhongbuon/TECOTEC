@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: VDT.PcbDoc   5/23/2024  3:19:14 PM
+NCDrill File Report For: VDT.PcbDoc   5/23/2024  4:35:01 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,14 +7,15 @@ ASCII RoundHoles File : VDT.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      43mil (1.1mm)                                             Round             37        PTH        5.03inch (127.67mm)
-T2      47mil (1.199mm)                                           Round             20        PTH        12.88inch (327.21mm)
-T3      59mil (1.501mm)                                           Round             2         PTH        2.70inch (68.63mm)
-T4      63mil (1.6mm)                                             Round             16        PTH        5.09inch (129.24mm)
-T5      70mil (1.778mm)                                           Round             70        PTH        24.99inch (634.78mm)
-T6      122mil (3.099mm)                                          Round             6         PTH        15.26inch (387.60mm)
-T7      126mil (3.2mm)                                            Round             2         PTH        2.50inch (63.50mm)
+T1      20mil (0.5mm)                                             Round             600       PTH        61.84inch (1570.76mm)
+T2      43mil (1.1mm)                                             Round             37        PTH        5.03inch (127.67mm)
+T3      47mil (1.199mm)                                           Round             20        PTH        12.88inch (327.21mm)
+T4      59mil (1.501mm)                                           Round             2         PTH        2.70inch (68.63mm)
+T5      63mil (1.6mm)                                             Round             16        PTH        5.09inch (129.24mm)
+T6      70mil (1.778mm)                                           Round             70        PTH        24.99inch (634.78mm)
+T7      122mil (3.099mm)                                          Round             6         PTH        15.26inch (387.60mm)
+T8      126mil (3.2mm)                                            Round             2         PTH        2.50inch (63.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              153
+Totals                                                                              753
 
 Total Processing Time (hh:mm:ss) : 00:00:00
